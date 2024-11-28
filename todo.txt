@@ -1,0 +1,14 @@
+remove from list when completed
+
+add discord discord server info/preview using discord json api
+
+- dont use the official discord one, it is bad for performance and dosent go with the look of the website
+- needs server widget to be enabled in server settings
+
+dark mode toggle
+
+- something to toggle between light and dark mode
+
+add the title of the page you're on to the nav/header
+
+- cool builds and stuff

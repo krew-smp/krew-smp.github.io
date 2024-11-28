@@ -1,0 +1,26 @@
+body {
+  background: rgb(192, 255, 200);
+}
+
+body {
+  font-family:
+    InterVariable,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    Segoe UI,
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell;
+  font-optical-sizing: auto;
+}
+
+a {
+  color: #3a405a;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid black; /* Adjust the color and thickness as needed */
+}
